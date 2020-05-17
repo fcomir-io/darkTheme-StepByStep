@@ -10,7 +10,9 @@ This article will try to describe every step in my way of understanding the proc
 
 ## More information about the project
 
-Check the article I wrote about this repository.
+Check the article I wrote about this repository
+
+https://medium.com/@fcomir/how-to-implement-dark-light-mode-with-react-391f45cd9fde
 
 ## Installation
 
